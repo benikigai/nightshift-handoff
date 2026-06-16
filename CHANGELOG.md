@@ -14,3 +14,8 @@
   - ARCHITECTURE.md with pipeline diagrams, severity gates, model strengths
 
 Older entries: archive/CHANGELOG_ARCHIVE.md
+
+## Renamed to Nightshift — 2026-06-15
+- ReviewForge → **Handoff** (the morning review/triage/PR stage of the Nightshift stack).
+- Path: ~/code/forge/ReviewForge → ~/code/nightshift/handoff. GitHub: benikigai/ReviewForge → benikigai/nightshift-handoff.
+- Spec: ../brief/docs/specs/nightshift-v2.md (Task 1).
